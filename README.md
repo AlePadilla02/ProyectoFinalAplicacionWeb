@@ -30,7 +30,7 @@ En este proyecto final, se debe de conseguir una aplicación web de compras, en 
 ### Funcionalidades Principales
 - Listado de productos.
 - Ver un producto (Mostrar una descripción de un producto).
-- Inicio de sesión (admin y usuario). Se deben crear los usuarios directamente en la BBDD.
+- Inicio de sesión (admin y usuario). Se deben crear los usuarios directamente en la BBDD. (Usuario corriente: Marcial, marciales y Administrador: admin,admin123)
 - Dar de alta nuevo producto (solo administrador).
 - Añadir producto a carro de compra.
 - Ver carro de la compra.
